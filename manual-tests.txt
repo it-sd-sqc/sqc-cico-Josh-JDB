@@ -70,3 +70,14 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 
 ## Expected results
 * Should display "Developer" and "Checked IN"
+
+
+# Module 5: Test button to acknowledge check in/out
+
+## Test steps
+1. Build and run CiCo.
+2. Enter p00000000 into the field and click Update.
+3. Click Ok.
+
+## Expected results
+* Should return to main panel
