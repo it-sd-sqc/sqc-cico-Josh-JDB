@@ -61,4 +61,14 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the user name.
 
+# Module 6: Auto-update after entering card number
+
+## Test steps
+1. Build and run CiCo.
+2. Enter 0000000
+3. Type 0
+
+## Expected results
+* The status screen should now be open
+
 
